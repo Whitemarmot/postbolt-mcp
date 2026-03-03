@@ -1,0 +1,29 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.whitemarmot/postbolt",
+  "description": "Publish to 13+ social media platforms from any AI agent via MCP.",
+  "repository": {
+    "url": "https://github.com/Whitemarmot/postbolt-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "postbolt-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "description": "Your PostBolt API key (starts with sk_)",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true,
+          "name": "POSTBOLT_API_KEY"
+        }
+      ]
+    }
+  ]
+}
