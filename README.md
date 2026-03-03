@@ -124,3 +124,14 @@ Platform availability depends on your PostBolt plan.
 ## License
 
 MIT
+
+
+---
+
+<p align="center">
+  <a href="https://www.copyright01.com/certificat/BAE17F4805A930467C453403B0655CAF">
+    <img src="https://www.copyright01.com/badge/BAE17F4805A930467C453403B0655CAF.svg" alt="Protected by Copyright01" />
+  </a>
+  <br>
+  <sub>Protected by <a href="https://www.copyright01.com">Copyright01</a> - Ref: CR-2026-91956 - Certified 2026-03-03</sub>
+</p>
