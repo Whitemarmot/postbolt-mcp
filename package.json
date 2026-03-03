@@ -1,7 +1,7 @@
 {
   "name": "postbolt-mcp",
-  "version": "1.0.1",
-  "mcpName": "io.github.whitemarmot/postbolt",
+  "version": "1.0.2",
+  "mcpName": "io.github.Whitemarmot/postbolt",
   "description": "MCP server for PostBolt - publish to social media from any AI agent",
   "type": "module",
   "bin": {
