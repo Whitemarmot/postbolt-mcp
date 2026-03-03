@@ -1,5 +1,5 @@
 {
-  "name": "@postbolt/mcp",
+  "name": "postbolt-mcp",
   "version": "1.0.0",
   "description": "MCP server for PostBolt - publish to social media from any AI agent",
   "type": "module",

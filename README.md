@@ -1,4 +1,4 @@
-# @postbolt/mcp
+# postbolt-mcp
 
 MCP server for [PostBolt](https://postbolt.dev) - publish to social media from any AI agent.
 
@@ -15,7 +15,7 @@ This package lets MCP-compatible clients (Claude Desktop, Claude Code, Cursor, W
   "mcpServers": {
     "postbolt": {
       "command": "npx",
-      "args": ["-y", "@postbolt/mcp"],
+      "args": ["-y", "postbolt-mcp"],
       "env": {
         "POSTBOLT_API_KEY": "sk_..."
       }
